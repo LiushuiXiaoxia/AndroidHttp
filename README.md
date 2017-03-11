@@ -1,4 +1,4 @@
-# Android Http网络神兵利器
+# Android Http网络开发神兵利器
 
 ---
 
@@ -7,6 +7,8 @@
 本人在Android移动端开发已经有不少年的经验，经历颇多，感受颇深，特写下此文记录下在Android Http网络开发中的各种工具使用，如果有其他想法和建议，欢迎前来交流 xiaqiulei@126.com 。 本人文笔较差，请不要见怪。
 
 Android开发的时候，很多APP都是基于网络请求的，大部分应用都是基于http的，少部分是基于Socket的，本文主要介绍Android Http开发的主要实践和工具。
+
+本文最先发表于[Github](https://github.com/LiushuiXiaoxia/AndroidHttp)，如有转载，请注明转载出处。
 
 # Http协议
 
