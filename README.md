@@ -24,7 +24,7 @@ HTTP是一个属于应用层的面向对象的协议，由于其简捷、快速�
 
 HTTP协议工作于客户端-服务端架构为上。浏览器作为HTTP客户端通过URL向HTTP服务端即WEB服务器发送所有请求。Web服务器根据接收到的请求后，向客户端发送响应信息。
 
-![](doc/http_request_response.jpg)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/http_request_response.jpg)
 
 ## 主要特点
 
@@ -40,7 +40,7 @@ HTTP协议工作于客户端-服务端架构为上。浏览器作为HTTP客户�
 
 ## Request
 
-![Http请求消息结构](doc/http_request.png)
+![Http请求消息结构](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/http_request.png)
 
 上图是一个Http请求消息结构，我们可以使用抓包工具抓取网络请求,因为是Get请求，所以后面没有请求数据
 
@@ -97,7 +97,7 @@ name=Professional%20Ajax&publisher=Wiley
 
 HTTP响应也由四个部分组成，分别是：状态行、消息报头、空行和响应正文。
 
-![Http响应消息结构](doc/http_reponse.jpg)
+![Http响应消息结构](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/http_reponse.jpg)
 
 
 ```
@@ -393,7 +393,7 @@ Postman是一款功能强大的网页调试与发送网页HTTP请求的Chrome插
 
 `http://news-at.zhihu.com/api/4/themes`
 
-![](doc/post_man.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/post_man.png)
 
 [Postman官网](https://www.getpostman.com/)
 
@@ -401,7 +401,7 @@ Postman是一款功能强大的网页调试与发送网页HTTP请求的Chrome插
 
 Paw 也是类似于Postman的一款模拟http请求的软件，只不过postman依赖于chrome，经常需要点击2此才可以打开postman，所以个人更加喜欢paw，下图是paw请求知乎api的示例。BTW, paw是一款收费的软件，不过么网上也有破解的，在这里就不介绍如何获取了，反正大家都懂的。
 
-![](doc/paw.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/paw.png)
 
 [Paw 官网](https://paw.cloud/)
 
@@ -413,7 +413,7 @@ Chrome dev tools是Google Chrome浏览器中自带一块调试工具。如果你
 
 虽然Chrome dev tools 在web开发中使用很多，但是在移动端中也是有用到的，这个后面再介绍。
 
-![](doc/chrome_dev_tools.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/chrome_dev_tools.png)
 
 [Chrome dev tools 相关资料](https://developer.chrome.com/devtools)
 
@@ -429,7 +429,7 @@ curl是利用URL语法在命令行方式下工作的开源文件传输工具。�
 
 还是原先的例子，请求知乎的api。
 
-![](doc/curl.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/curl.png)
 
 很简单在curl命令直接加入url即可发送网络请求。
 
@@ -472,11 +472,11 @@ Stetho是Facebook开源的一个工具，前面说过Google Chrome dev tools，�
 
 下面官网的截图，可以先了解下chuck的使用效果。
 
-![](doc/chuck.gif)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/chuck.gif)
 
 在高版本的Android中，还支持多屏显示，那么一边操作一边显示。
 
-![](doc/multiwindow.gif)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/multiwindow.gif)
 
 集成的方法都很简单，只需要在初始化OkHttpClient的时候，添加对应的拦截器即可。
 
