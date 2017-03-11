@@ -633,4 +633,58 @@ Aop相关资料:
 
 [Http博客](http://www.cnblogs.com/li0803/archive/2008/11/03/1324746.html)
 
-[chuck github](https://github.com/jgilfelt/chuck)
+[URLConnection](http://www.blogjava.net/supercrsky/articles/247449.html) 。
+
+[Android HttpClient](https://developer.android.com/reference/org/apache/http/client/package-summary.html).
+
+[HttpClient相关博客](http://blog.csdn.net/wangpeng047/article/details/19624529)
+
+[Volley相关资料](http://blog.csdn.net/guolin_blog/article/details/17482095)
+
+[Volley相关资料](http://blog.csdn.net/guolin_blog/article/details/12452307)
+
+[OkHttp](https://github.com/square/okhttp) 。
+
+[Retrofit Github地址](https://github.com/square/retrofit) 。
+
+[Charles介绍](http://blog.devtang.com/2015/11/14/charles-introduction/)
+
+[Charles Mock 数据](http://blog.csdn.net/guijiaoba/article/details/43198503)
+
+[Postman官网](https://www.getpostman.com/)
+
+[Postman资料](http://chromecj.com/web-development/2014-09/60.html)
+
+[Paw 官网](https://paw.cloud/)
+
+[Paw 使用教程](https://yq.aliyun.com/articles/29772)
+
+[Chrome dev tools 相关资料](https://developer.chrome.com/devtools)
+
+[Chrome dev tools 相关资料](https://github.com/GoogleChrome/devtools-docs)
+
+[Chrome dev tools 相关资料](https://segmentfault.com/a/1190000000683599)
+
+[curl 资料](http://www.cnblogs.com/gbyukg/p/3326825.html)
+
+[curl 官网](https://curl.haxx.se/)
+
+[Interceptors相关资料](https://github.com/square/okhttp/wiki/Interceptors)
+
+[LoggingInterceptors相关资料](https://github.com/ihsanbal/LoggingInterceptor)
+
+[stetho github](https://github.com/facebook/stetho)
+
+[stetho 相关资料](http://www.jianshu.com/p/03da9f91f41f)
+
+[Chuck github](https://github.com/jgilfelt/chuck)
+
+[RESTful](http://www.ruanyifeng.com/blog/2011/09/restful)
+
+[Aop介绍](http://blog.csdn.net/innost/article/details/49387395)
+
+[Aop资料](http://blog.csdn.net/crazy__chen/article/details/52014672)
+
+[Assectj](http://www.jianshu.com/p/bb9343e8af17)
+
+[Assectj Gradle 插件](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)
