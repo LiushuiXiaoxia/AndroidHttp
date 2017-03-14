@@ -265,7 +265,7 @@ Postman是一款功能强大的网页调试与发送网页HTTP请求的Chrome插
 
 [Postman资料](http://chromecj.com/web-development/2014-09/60.html)
 
-Paw 也是类似于Postman的一款模拟http请求的软件，只不过postman依赖于chrome，经常需要点击2此才可以打开postman，所以个人更加喜欢paw，下图是paw请求知乎api的示例。BTW, paw是一款收费的软件，不过么网上也有破解的，在这里就不介绍如何获取了，反正大家都懂的。
+Paw 也是类似于Postman的一款模拟http请求的软件，只不过postman依赖于chrome（经网友指正，postman也有独立客户端），所以个人更加喜欢paw，下图是paw请求知乎api的示例。BTW, paw是一款收费的软件，不过么网上也有破解的，在这里就不介绍如何获取了，反正大家都懂的。
 
 ![](https://raw.githubusercontent.com/LiushuiXiaoxia/AndroidHttp/master/doc/paw.png)
 
