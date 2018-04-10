@@ -215,9 +215,9 @@ Android在低版本的系统Api中也有Httpclient相关类，但是后来就已
 
 ## OkHttp & Retrofit
 
-OkHttpSquare公司开源的处理网络请求的开源项目,是安卓端最火热的轻量级框架，用于替代HttpUrlConnection和Apache HttpClient。最新的版本是OkHttp3，Github地址在 [这里](https://github.com/square/okhttp) 。
+OkHttp 是Square公司开源的处理网络请求的开源项目,是安卓端最火热的轻量级框架，用于替代HttpUrlConnection和Apache HttpClient。最新的版本是OkHttp3，Github地址在 [这里](https://github.com/square/okhttp) 。
 
-Retrofit也是是Square公司开发的一款针对Android网络请求的框架，Retrofit2底层基于OkHttp实现的，OkHttp现在已经得到Google官方认可，大量的app都采用OkHttp做网络请求， [Github地址](https://github.com/square/retrofit) 。
+Retrofit 也是Square公司开发的一款针对Android网络请求的框架，Retrofit2底层基于OkHttp实现的，OkHttp现在已经得到Google官方认可，大量的app都采用OkHttp做网络请求， [Github地址](https://github.com/square/retrofit) 。
 
 网络上也有很多关于OkHttp、Retrofit的示例和资料，而且是目前Android移动端最流行的框架，还是很值得了解一下，在这里就不做详细介绍。
 
